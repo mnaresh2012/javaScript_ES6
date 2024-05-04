@@ -8,6 +8,7 @@ const Address = {
     }
 }
 
+// Es6 de-structuring.
 let {name, city, printName} = Address;
 
 printName();
