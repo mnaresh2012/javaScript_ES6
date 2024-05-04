@@ -15,22 +15,22 @@ const companies= [
 const ages = [33, 12, 20, 16, 5, 54, 21, 44, 61, 13, 15, 45, 25, 64, 32];
 
 /*let - const - var
-var: 
+var:
 	- hoisted (always declared at top of scope, global if none)
     - function scope
 
     var greeter = "hey hi";
     greeter = "say Hello instead";
-    
+
 
 	** Problem with var
     var greeter = "hey hi";
     var times = 4;
 
     if (times > 3) {
-        var greeter = "say Hello instead"; 
+        var greeter = "say Hello instead";
     }
-    
+
     console.log(greeter) // "say Hello instead"
 
 
@@ -42,7 +42,7 @@ let:
     let greeting = "say Hi";
     greeting = "say Hello instead";
 
-const: 
+const:
     - block scope
     - not reassignable
     - not redeclarable
@@ -82,7 +82,7 @@ var userAge = 31;
 //ES6 Collection ( Map, Set )
 
 
-//Array 
+//Array
 
 //String
 
