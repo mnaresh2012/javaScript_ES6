@@ -29,15 +29,15 @@ var:
 let:
     - block scope
     - can be updated with new value
-    - not redeclarable
+    - not re declarable
 
     let greeting = "say Hi";
     greeting = "say Hello instead";
 
 const:
     - block scope
-    - not reassignable
-    - not redeclarable
+    - not re assignable
+    - not re declarable
 
 
 
