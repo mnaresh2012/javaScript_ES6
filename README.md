@@ -1,6 +1,6 @@
 # javaScript_ES6
 JavaScript ES6 Features:
-01. let & const
+01. <ins>let & const</ins>
 02. Default Parameter
 03. Rest Parameter
 04. spread Operator
