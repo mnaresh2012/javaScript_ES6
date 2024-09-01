@@ -6,7 +6,7 @@
 // console.log(Multiplication(5, 8));
 
 
-
+// to import all methods from the export file
 import * as MathModule from './module';
 
 console.log(MathModule.Addition(5, 5));
