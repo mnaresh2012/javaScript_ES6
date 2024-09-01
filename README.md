@@ -7,9 +7,9 @@ JavaScript ES6 Features:
 05. ~~Object Literal~~
 06. ~~Template Literal~~
 07. ~~Destructuring~~
-08. ES6 Module
+08. ~~ES6 Module~~
 09. ES6 Classes
-10. Arrow Functions
+10. ~~Arrow Functions~~
 11. Symbol
 12. Iterators & Generators
 13. Promises
